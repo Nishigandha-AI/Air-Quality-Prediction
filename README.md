@@ -103,9 +103,7 @@ Beijing-PM2.5-Prediction/
 ├── Beijing_AirQuality_Assessment_V2.ipynb
 ├── requirements.txt
 ├── README.md
-├── Technical_Report.pdf
-└── data/
-    └── dataset.zip
+├── dataset.zip
 ```
 
 ## Documentation
